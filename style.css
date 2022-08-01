@@ -6,6 +6,11 @@ h2 {color: aliceblue;background-color: gold;
          border-spacing: 2 cm;display:inline;padding:60 px ; margin :30 px}
 h4 {background-color: antiquewhite; display:inline}
 #cp {background-color: blueviolet;display: inline}
+textarea{
+      font: 1em sans-serif;background-color: gold;
+      color: hotpink;
+}
+
 
 
 
